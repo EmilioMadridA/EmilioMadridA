@@ -1,17 +1,23 @@
-## Hello there!
+## Hello there! ⚔️
 
 # Soy Emilio Madrid Abarca
 
-Un Desarrollador de aplicaciones Full Stack Python Trainee, especializado en Python 🐍 y su framework Django, y en SQL (PostgreSQL). 
+Un Desarrollador de aplicaciones Full Stack Python en proceso, especializado en Python 🐍 y su framework Django, y en SQL (PostgreSQL).
 
-Soy un apasiadonado del conociemiento y la tecnología, me encanta aprender de los divulgadores y grandes nombres de la innovación 🚀
-Además, disfruto de los desafios que estimulan el lado creativo y técnico para hacer realidad los proyectos en los que me involucro.
+Actualmente me desempeño como Analista de Datos 📊, y soy un Pythonista de corazón!
+
+Gracias a **Talendo Digital para Chile** y a **Desafio Latam** [DesafioLatam](https://github.com/DesafioLatam) por la oportunidad de adentrarme al mundo del Fullstack, aprendiendo muchísimo del Front-End y Back-End.
+Soy un apasiadonado autodidacta, y en Bootcamp pude darme cuenta de lo mucho que me gusta aprender nuevos lenguajes de programación, junto con las prácticas que son necesarias para el mundo laboral Tech.
+Enamorado de los desafios que fomentan la creatividad y que buscan implementar todo lo que sé. 
 
 ## 💼 Proyectos
 
+El último proyecto en el que trabajé en colaboración con **Judith Vera** - [JudVera](https://github.com/JudVera)
+- https://github.com/EmilioMadridA/Proyecto_Our_Home
+
 ## 💡 Habilidades y conocimientos
 
-- 💬 Pregúntame sobre **Frontend**, **Backend**, **Cloud Computing** y **Diseño**. Me encanta hablar sobre **Emprendimiento**.
+- 💬 Me encanta hablar de **Frontend**, **Backend**, **Python** y **Diseño**. ¿**Inteligencia Artificial**? Sentemonos con un café y conversemos ☕
 
 ## 📫 Contacto
 
