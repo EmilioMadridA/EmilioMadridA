@@ -22,7 +22,7 @@ El último proyecto en el que trabajé en colaboración con **Judith Vera** - [J
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<emadridabarca@gmail.com>**
-- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/brayandiazc](https://www.linkedin.com/in/emilio-madrid-abarca-2aa260195/))**
+- Puedes contactarme a través de **[Linkedin]** ([https://www.linkedin.com/in/emiliomadridabarca](https://www.linkedin.com/in/emilio-madrid-abarca-2aa260195/))
 
 ### 🧑‍💻 Lenguajes de programación
 
