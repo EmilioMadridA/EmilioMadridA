@@ -56,6 +56,8 @@ El último proyecto en el que trabajé en colaboración con **Judith Vera** - [J
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EmilioMadridA&show_owner=true&hide=issues&theme=radical&show_icons=true"/>
 </a>
 
+<hr>
+
 <a href="https://github.com/EmilioMadridA/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilioMadridA&layout=compact&langs_count=8&card_width=320" />
 </a>
